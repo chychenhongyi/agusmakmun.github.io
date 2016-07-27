@@ -1,8 +1,9 @@
 title: Stack Problems
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, actually in Python and Django.
+author: Hongyi Chen
+github: https://github.com/chychenhongyi
+logo: https://github.com/chychenhongyi/static/img/logo.png
+about: I am Phd candidate. Currently study in NUDT, Changsha, China.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -20,15 +21,15 @@ social:
     - icon: fa-skype
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "#"
     - icon: fa-linkedin
       link: "#"
     - icon: fa-stack-exchange
       link: "#"
 
 share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+  twitter_username: 
+  fb_appid: 
 
 urls:
     - text: About Me
@@ -36,11 +37,11 @@ urls:
     - text: Projects
       url: /projects/
     - text: Github
-      url: https://github.com/agusmakmun
+      url: https://github.com/chychenhongyi
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://chychenhongyi.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
