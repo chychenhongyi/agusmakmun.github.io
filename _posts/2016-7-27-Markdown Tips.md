@@ -2,7 +2,7 @@
 layout: post
 title:  Makdown Tips
 date:   2016-07-27 13:50:39
-categories: others
+categories: tools
 ---
 
 # 善其工，利其器
