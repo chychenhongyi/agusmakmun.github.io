@@ -71,9 +71,9 @@ System.out.println("Helloword");
 | zebra stripes | are neat      |    $1 |
 ```
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml](https://chychenhongyi.github.io/images/config.png)
 
-![logo]({{ site.baseurl }}/images/logo.png)
+![logo]({{ site.baseurl }}/static/img/logo.png)
 
 [^1]: http://blog.leanote.com/post/54bfa17b8404f03097000000
 [^2]: http://wowubuntu.com/markdown/
