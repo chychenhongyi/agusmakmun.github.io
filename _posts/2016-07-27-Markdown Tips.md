@@ -71,7 +71,7 @@ System.out.println("Helloword");
 | zebra stripes | are neat      |    $1 |
 ```
 
-![_config.yml](../static/img/logo.png)
+![_config.yml](/static/img/loadingAnimation.gif)
 
 ![logo]({{ site.baseurl }}/static/img/logo.png)
 
