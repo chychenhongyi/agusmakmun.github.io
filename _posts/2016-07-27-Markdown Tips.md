@@ -71,7 +71,7 @@ System.out.println("Helloword");
 | zebra stripes | are neat      |    $1 |
 ```
 
-![_config.yml](https://chychenhongyi.github.io/images/config.png)
+![_config.yml](../static/img/logo.png)
 
 ![logo]({{ site.baseurl }}/static/img/logo.png)
 
